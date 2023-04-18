@@ -1,0 +1,30 @@
+.bg-color {
+    margin: 0;
+    padding: 0;
+    background-image: Url(https://cdn.pixabay.com/photo/2018/07/05/16/59/frame-3518725_960_720.jpg);
+    background-color: rgb(224, 211, 17);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-rounded {
+    border-radius: 100px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.footer {  
+    left: 10px;  
+    bottom: 0px;  
+    right: 10px;   
+    width: 95%;   
+    text-align: center;  
+    background-color: #f9fbfd;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-family:Courier New,Monospace;
+    }  
