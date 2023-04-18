@@ -108,18 +108,6 @@ Enter new roll number and then all other fields are enabled and then after filli
 
 ![image](https://user-images.githubusercontent.com/83339859/232834292-c8aab5ae-41b8-4d27-adff-f66495c51a8c.png)
 
-## Installation
-
-Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
-
-Clone the project:
-
-
-
-After cloning:
-
-Move to public_html and then script folder and in script.js file replace the connectionToken by with your Connection Token
-
 ## Sources
 
 Introduction to JsonPowerDB - V2.0 course on https://careers.login2explore.com/
