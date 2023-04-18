@@ -120,3 +120,6 @@ Introduction to JsonPowerDB - V2.0 course on https://careers.login2explore.com/
 Bootstrap
 
 ## Demo
+
+https://user-images.githubusercontent.com/83339859/232842745-39ace747-372c-4602-88be-4e374562ec78.mp4
+
